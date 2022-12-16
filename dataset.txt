@@ -3,7 +3,7 @@ base-100.jpeg,20
 base-75.jpeg,30
 base-50.jpeg,40
 base-25.jpeg,50
-base.jgp,60
+base.jpg,60
 base+25.jpeg,70
 base+50.jpeg,80
 base+75.jpeg,90
